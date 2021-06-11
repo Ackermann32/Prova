@@ -7,6 +7,7 @@ public class Buongiorno {
         System.out.println("Inqiacchemmodo");
         System.out.println("Alfonso");
         System.out.println("Simone");
+        System.out.println("Alfonso vuole risolvere un confitto ca**o");
 	}
 
 }
