@@ -7,6 +7,7 @@ public class Buonasera {
 		System.out.println("ciao");
 		System.out.println("CIao22902i290");
 		String x = "ciao";
+		Object obj=new Object();
 	}
 
 }
